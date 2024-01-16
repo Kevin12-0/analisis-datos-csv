@@ -1,6 +1,6 @@
 # analisis-datos-csv
 
-Análisis de datos csv con Jupyter para IDS
+Analisis de datos Practica
 
 ## Files
 
